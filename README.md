@@ -3,6 +3,6 @@
 
 # Semana Omnistack 11.0
 
-![BetheHero image](https://user-images.githubusercontent.com/23077892/78857381-a92ad780-79ff-11ea-8c85-0e1ad2cd1b4f.png)
+![BeTheHero img](https://user-images.githubusercontent.com/23077892/78857571-22c2c580-7a00-11ea-9aa3-dfd95224c1fd.png)
 
 ## Project
